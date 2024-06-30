@@ -34,4 +34,3 @@ I am able to build long-term relationships and work in a team, inclined to learn
 - Russian `free possession`
 - Turkmen `free possession`
 
-[def]: image-4.png
