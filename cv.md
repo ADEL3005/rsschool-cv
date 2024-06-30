@@ -5,7 +5,7 @@
 - https://ADEL3005.github.io/rsschool-cv/cv
 - guseinova.adelya@yandex.ru
 
-![own photo][def]
+![own photo](https://avatars.mds.yandex.net/i?id=2a00000179f8b28a80bdd2b2f00fa5a92cd7-4365757-images-thumbs&n=13)
 
 
 **About me**
