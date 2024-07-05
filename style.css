@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link> 
+</head>
+<body>
+    h1 {
+        text-align: center;
+      }
+    <h1>
+        
+        <hr color="blue" width="1200" height="5000" <font color="white"> Guseinova Adele</font> 
+    
+    </h1>
+  
+        <hr color="blue">
+    <pre>
+    <a href="https://ADEL3005.github.io/rsschool-cv/cv">Github</a>
+    <a href="guseinova.adelya@yandex.ru">Mail</a>
+</pre>
+
+
+<img src="https://avatars.mds.yandex.net/i?id=2a00000179f8b28a80bdd2b2f00fa5a92cd7-4365757-images-thumbs&n=13" alt="Own photo" width="200" height="200">
+
+<p>
+   <i><b>About me</b> 
+</i>
+</p>
+<p>
+    <i>
+        Professional chemist analyst with successful 5 years of experience st the institute. Aims to improve their knowledge in the field of programming, in order to connect two directions. 
+    </i>
+</p>
+td > p {
+    color:blue;
+}
+<p>
+    <i>
+        I am able to build long-term relationships and work in a team, inclined to learning and I am very interested in everthing new.
+    </i>
+</p>
+<hr color="blue">
+
+  <b>Skills:</b>
+
+<i>Languages of programming:</i>
+
+<ul>
+    <li>Python </li> 
+    <li>HTML </li> 
+   <li>Mardown</li> 
+</ul>
+
+
+    <b>Education:</b>
+
+        <ol>
+            <li>Fundamental and pplied chmistry 2018-2023 years</li>
+            <li> <strong>Python courses</strong>2022-2023 year</li>
+            <li>Graduate chemist 2023-2027 years</li>
+            <li><strong>RS School JS/FE Pre-School</strong> 2024-2025 year</li>
+        </ol>
+        
+    
+     <b>Languages:</b>
+        
+<ul>
+    <li>English <strong>B1</strong></li>
+    <li>Russian <strong>free possession</strong></li>
+    <li>Turkmen <strong>free possession</strong></li>
+</ul>
+</body>
+</html>
